@@ -14,6 +14,6 @@
 6色ありますが全部コロッケです。色関係無しに6つ取得するとゲーム終わりです。
 
 
-# WebGLによるデモ(日本語が出ない)
-https://dl.dropboxusercontent.com/u/26553477/SC_O/release/index.html
+# WebGLによるデモ
+http://furukazu.github.io/SixCroquettes/WebGL/Output/index.html
 
